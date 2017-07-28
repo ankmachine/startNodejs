@@ -9,3 +9,6 @@ to run the project
 4. access it at localhost:3000
 
 note: make sure you have git and express installed
+
+Detail explaination
+"coming soon"
